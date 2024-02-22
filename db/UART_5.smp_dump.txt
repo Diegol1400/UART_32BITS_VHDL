@@ -1,0 +1,14 @@
+
+State Machine - |UART_5|RX:UART_RX_instance|state
+Name state.s_stopBit state.s_dataBits state.s_startBit state.s_idle 
+state.s_idle 0 0 0 0 
+state.s_startBit 0 0 1 1 
+state.s_dataBits 0 1 0 1 
+state.s_stopBit 1 0 0 1 
+
+State Machine - |UART_5|TX:UART_TX_instance|state
+Name state.s_stopBit state.s_dataBits state.s_startBit state.s_idle 
+state.s_idle 0 0 0 0 
+state.s_startBit 0 0 1 1 
+state.s_dataBits 0 1 0 1 
+state.s_stopBit 1 0 0 1 

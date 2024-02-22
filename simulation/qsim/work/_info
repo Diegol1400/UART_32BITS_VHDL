@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\Curso\UART_5\simulation\qsim
+vUART_5
+Z1 !s100 M?524jXf;loFkm>U3`cC52
+Z2 IXQSz=gg8b2Z33:SSdkFWN2
+Z3 V4Ie`4ceL`=7gB^^1e9IzL2
+Z4 dC:\altera\13.0sp1\Curso\UART_5\simulation\qsim
+Z5 w1683220065
+Z6 8UART_5.vo
+Z7 FUART_5.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|UART_5.vo|
+Z10 o-work work -O0
+Z11 n@u@a@r@t_5
+!i10b 1
+!s85 0
+Z12 !s108 1683220072.020000
+Z13 !s107 UART_5.vo|
+!s101 -O0
+vUART_5_vlg_check_tst
+!i10b 1
+Z14 !s100 nPO?Q50a6k:6PHOkJbal:2
+Z15 IN]P]L?^ok2hK:kB:b]TAY0
+Z16 V2OBj3fI6C<^?SeGZ@;I9@0
+R4
+Z17 w1683220061
+Z18 8UART_5.vt
+Z19 FUART_5.vt
+L0 69
+R8
+r1
+!s85 0
+31
+Z20 !s108 1683220073.109000
+Z21 !s107 UART_5.vt|
+Z22 !s90 -work|work|UART_5.vt|
+!s101 -O0
+R10
+Z23 n@u@a@r@t_5_vlg_check_tst
+vUART_5_vlg_sample_tst
+!i10b 1
+Z24 !s100 jhfnNFO_OS7e1ZSZPQMVa3
+Z25 IWagbk9CUlh7::8>nc9`Mb2
+Z26 V9FJD@@^KlU_ag63g=^ACA1
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@u@a@r@t_5_vlg_sample_tst
+vUART_5_vlg_vec_tst
+!i10b 1
+!s100 WN77Wco[O6ZkR?j1;B7aL2
+I16Uo[7ChiM]EN0gcEVX5m1
+Z28 VLJHYLT?aH1<nDRT=`j0PY1
+R4
+R17
+R18
+R19
+Z29 L0 748
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@u@a@r@t_5_vlg_vec_tst
